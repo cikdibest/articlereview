@@ -5,23 +5,23 @@ VisualStudioVersion = 17.1.32210.238
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "BackServices", "BackServices", "{1BC6ACE3-EBE9-4B86-82DB-B047357483CE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleAPI", "ArticleAPI\ArticleAPI.csproj", "{F37FB9A0-A06E-45EC-AE48-D4F07E3B90F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleAPI", "ArticleAPI\ArticleAPI.csproj", "{F37FB9A0-A06E-45EC-AE48-D4F07E3B90F7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewAPI", "ReviewAPI\ReviewAPI.csproj", "{D214BB1C-F102-436A-BA77-7A0D9FD7741B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewAPI", "ReviewAPI\ReviewAPI.csproj", "{D214BB1C-F102-436A-BA77-7A0D9FD7741B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{758C45C0-9210-42DF-85E6-2AB536469514}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleReview.Common.Data", "ArticleReview.Common.Data\ArticleReview.Common.Data.csproj", "{5F0E0191-946F-4D3A-BECC-1520E14556C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleReview.Common.Data", "ArticleReview.Common.Data\ArticleReview.Common.Data.csproj", "{5F0E0191-946F-4D3A-BECC-1520E14556C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleReview.Common.Business", "ArticleReview.Common.Business\ArticleReview.Common.Business.csproj", "{B15C2474-98CF-4A4A-9D1A-9D633CD5A48D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleReview.Common.Business", "ArticleReview.Common.Business\ArticleReview.Common.Business.csproj", "{B15C2474-98CF-4A4A-9D1A-9D633CD5A48D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleReview.Common.Dto", "ArticleReview.Common.Dto\ArticleReview.Common.Dto.csproj", "{36C5B0D0-6448-4093-897B-17925E62113F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleReview.Common.Dto", "ArticleReview.Common.Dto\ArticleReview.Common.Dto.csproj", "{36C5B0D0-6448-4093-897B-17925E62113F}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{FBFC2EC0-71BD-4DEB-A98D-23DF29F4C4A3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArticleTest", "ArticleTest\ArticleTest.csproj", "{5BB4712B-A666-4DE3-8B2A-DED2AB8C8D46}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticleTest", "ArticleTest\ArticleTest.csproj", "{5BB4712B-A666-4DE3-8B2A-DED2AB8C8D46}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReviewTest", "ReviewTest\ReviewTest.csproj", "{71142A2C-D953-4675-B1F6-8AC1D52786F7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReviewTest", "ReviewTest\ReviewTest.csproj", "{71142A2C-D953-4675-B1F6-8AC1D52786F7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BvkfXUqX8s8SYErsAFxhFKevgqoQhr5YYTpkhQGN0SqWb6EgkEX9pAqAajTu8DJ3uzSwugIfWTnMiraER8ykoQ==",
+  "dgSpecHash": "HTQ8O4TGbl0He+1Dr6compjm85YX1iOVDIggGyzrdFUBIUXSf3lioudtdM+ojODUWQxSk8HeZYAVLqSCjs7ZoQ==",
   "success": true,
-  "projectFilePath": "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
+  "projectFilePath": "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",

@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.OData.Edm;
 using Microsoft.OData.ModelBuilder;
 using Microsoft.OpenApi.Models;
+using System.Linq;
 
 namespace ArticleAPI
 {
@@ -27,17 +28,23 @@ namespace ArticleAPI
         {
             int setMaxTop = Configuration.GetSection("ODataConfig").GetValue<int>("SetMaxTop");
             services.AddControllers()
-                    .AddOData(opt => opt.AddRouteComponents("odata", GetEdmModel()).Filter().Select().Count().OrderBy().Expand().SkipToken().SetMaxTop(setMaxTop));
+                    .AddOData(opt => opt.AddRouteComponents("v1", GetEdmModel()).Filter().Select().Count().OrderBy().Expand().SkipToken().SetMaxTop(setMaxTop));
 
             services.AddDbContext<ArticleReviewDbContext>(options =>
                 options.UseNpgsql(Configuration.GetConnectionString("DbConnection")));
 
             services.AddScoped<IArticleService, ArticleService>();
 
+
             services.AddSwaggerGen(c =>
             {
+                c.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
+                c.IgnoreObsoleteActions();
+                c.IgnoreObsoleteProperties();
+                c.CustomSchemaIds(type => type.FullName);
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "ArticleAPI", Version = "v1" });
             });
+
         }
 
         public void Configure(IApplicationBuilder app, IWebHostEnvironment env)

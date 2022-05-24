@@ -1422,11 +1422,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
+      "projectUniqueName": "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
       "projectName": "ReviewAPI",
-      "projectPath": "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
+      "projectPath": "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
       "packagesPath": "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\",
-      "outputPath": "D:\\Company\\ArticleReview\\ReviewAPI\\obj\\",
+      "outputPath": "D:\\Projects\\ArticleReview\\ReviewAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\cihan.dalgicdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1443,8 +1443,8 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
-              "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj"
+            "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
+              "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj"
             }
           }
         }

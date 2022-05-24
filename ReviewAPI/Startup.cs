@@ -13,6 +13,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.OData.Edm;
 using Microsoft.OData.ModelBuilder;
 using Microsoft.OpenApi.Models;
+using System.Linq;
 
 namespace ReviewAPI
 {
@@ -30,7 +31,7 @@ namespace ReviewAPI
         {
             int setMaxTop = Configuration.GetSection("ODataConfig").GetValue<int>("SetMaxTop");
             services.AddControllers()
-                    .AddOData(opt => opt.AddRouteComponents("odata", GetEdmModel()).Filter().Select().Count().OrderBy().Expand().SkipToken().SetMaxTop(setMaxTop));
+                    .AddOData(opt => opt.AddRouteComponents("v1", GetEdmModel()).Filter().Select().Count().OrderBy().Expand().SkipToken().SetMaxTop(setMaxTop));
 
             services.AddDbContext<ArticleReviewDbContext>(options =>
                 options.UseNpgsql(Configuration.GetConnectionString("DbConnection")));
@@ -39,7 +40,11 @@ namespace ReviewAPI
 
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ReviewAPI", Version = "v1" });
+                c.ResolveConflictingActions(apiDescriptions => apiDescriptions.First());
+                c.IgnoreObsoleteActions();
+                c.IgnoreObsoleteProperties();
+                c.CustomSchemaIds(type => type.FullName);
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "ArticleAPI", Version = "v1" });
             });
         }
 

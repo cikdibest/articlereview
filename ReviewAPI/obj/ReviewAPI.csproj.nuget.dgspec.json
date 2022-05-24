@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj": {}
+    "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj": {}
   },
   "projects": {
-    "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
+    "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj",
+        "projectUniqueName": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj",
         "projectName": "ArticleReview.Common.Business",
-        "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj",
+        "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj",
         "packagesPath": "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\",
-        "outputPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\obj\\",
+        "outputPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihan.dalgicdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj": {
-                "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj"
+              "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj": {
+                "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj"
               },
-              "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
-                "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj"
+              "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
+                "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj": {
+    "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj",
+        "projectUniqueName": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj",
         "projectName": "ArticleReview.Common.Data",
-        "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj",
+        "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\ArticleReview.Common.Data.csproj",
         "packagesPath": "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\",
-        "outputPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Data\\obj\\",
+        "outputPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Data\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihan.dalgicdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
-                "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj"
+              "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
+                "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj"
               }
             }
           }
@@ -149,14 +149,14 @@
         }
       }
     },
-    "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
+    "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj",
+        "projectUniqueName": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj",
         "projectName": "ArticleReview.Common.Dto",
-        "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj",
+        "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\ArticleReview.Common.Dto.csproj",
         "packagesPath": "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\",
-        "outputPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Dto\\obj\\",
+        "outputPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Dto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihan.dalgicdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -203,14 +203,14 @@
         }
       }
     },
-    "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj": {
+    "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
+        "projectUniqueName": "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
         "projectName": "ReviewAPI",
-        "projectPath": "D:\\Company\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
+        "projectPath": "D:\\Projects\\ArticleReview\\ReviewAPI\\ReviewAPI.csproj",
         "packagesPath": "C:\\Users\\cihan.dalgicdir\\.nuget\\packages\\",
-        "outputPath": "D:\\Company\\ArticleReview\\ReviewAPI\\obj\\",
+        "outputPath": "D:\\Projects\\ArticleReview\\ReviewAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\cihan.dalgicdir\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -227,8 +227,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
-                "projectPath": "D:\\Company\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj"
+              "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj": {
+                "projectPath": "D:\\Projects\\ArticleReview\\ArticleReview.Common.Business\\ArticleReview.Common.Business.csproj"
               }
             }
           }

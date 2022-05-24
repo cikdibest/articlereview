@@ -1,0 +1,17 @@
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Business.deps.json
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Business.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ref\ArticleReview.Common.Business.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Business.pdb
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Data.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Dto.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Data.pdb
+D:\Projects\ArticleReview\ArticleReview.Common.Business\bin\Debug\net5.0\ArticleReview.Common.Dto.pdb
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.csproj.AssemblyReference.cache
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.AssemblyInfoInputs.cache
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.AssemblyInfo.cs
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.csproj.CoreCompileInputs.cache
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ref\ArticleReview.Common.Business.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.pdb
+D:\Projects\ArticleReview\ArticleReview.Common.Business\obj\Debug\net5.0\ArticleReview.Common.Business.csproj.CopyComplete

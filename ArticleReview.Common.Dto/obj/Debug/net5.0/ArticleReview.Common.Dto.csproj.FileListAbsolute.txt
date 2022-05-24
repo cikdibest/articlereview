@@ -1,0 +1,11 @@
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\bin\Debug\net5.0\ArticleReview.Common.Dto.deps.json
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\bin\Debug\net5.0\ArticleReview.Common.Dto.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\bin\Debug\net5.0\ref\ArticleReview.Common.Dto.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\bin\Debug\net5.0\ArticleReview.Common.Dto.pdb
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.AssemblyInfoInputs.cache
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.AssemblyInfo.cs
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.csproj.CoreCompileInputs.cache
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ref\ArticleReview.Common.Dto.dll
+D:\Projects\ArticleReview\ArticleReview.Common.Dto\obj\Debug\net5.0\ArticleReview.Common.Dto.pdb
